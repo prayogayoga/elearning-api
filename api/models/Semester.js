@@ -15,10 +15,10 @@ module.exports = {
   		primaryKey: true
   	},
 
-  	name: {
-  		type: 'string'
+  	semester: {
+  		type: 'integer'
   	}
-  	
+
   }
 };
 

@@ -16,6 +16,9 @@ module.exports = {
   	},
   	dosen: {
   		model: 'dosen'
+  	},
+  	matkul: {
+  		model: 'matakuliah'
   	}
 
   }

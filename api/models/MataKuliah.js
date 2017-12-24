@@ -20,19 +20,13 @@ module.exports = {
   	dosen: {
   		model: 'dosen'
   	},
-  	matkuldosen: {
-  		model: 'matkuldosen'
-  	},
   	prodi: {
   		model: 'prodi'
   	},
   	semester: {
   		model: 'semester'
-  	},
-  	filematkul: {
-  		model: 'filematkul'
   	}
-
+  	
   }
 };
 

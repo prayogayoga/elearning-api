@@ -17,6 +17,10 @@ module.exports = {
 
   	name: {
   		type: 'string'
+  	},
+
+  	matkul_id: {
+  		model: 'matakuliah'
   	}
 
   }
