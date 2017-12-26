@@ -6,6 +6,7 @@
   "keywords": [],
   "dependencies": {
     "ejs": "2.3.4",
+    "express": "^4.16.2",
     "grunt": "1.0.1",
     "grunt-contrib-clean": "1.0.0",
     "grunt-contrib-coffee": "1.0.0",
@@ -34,5 +35,9 @@
     "url": "git://github.com/agung/myelen.git"
   },
   "author": "agung",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "shortid": "^2.2.8"
+  }
 }
